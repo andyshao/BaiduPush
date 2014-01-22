@@ -1,0 +1,12 @@
+{"title":"标签名","des":"标签名","deviceType":"3","pushType":"2","msgType":"1","tag":"标签名"}
+
+
+method=push_msg&apikey=Ljc710pzAa99GULCo8y48NvB&sign=8777F555E8C16715EBA5C85341684C58&timestamp=12344543232&expires=1238747373&v=1&device_type=3&push_type=2&tag=superstar&message_type=1&messages="{\"title\":\"\",\"description\":\"test\"}"&msg_keys="testkey"
+
+apikey=xbNams36xGkPNYlOQZCSG4L3&device_type=3&message_type=1&messages={"title":"标签名","description":"标签名","notification_builder_id":0,"notification_basic_style":0,"open_type":0,"url":"","user_confirm":0,"pkg_content":"","custom_content":""}&method=push_msg&msg_keys=xxxxxx&push_type=2&tag=标签名&timestamp=1390296666&sign=94c9b60501ac34bffbdf23612c4dcee9
+
+{"tag":"SubActivity","userID":"1069236694515878289"}
+
+{"title":"标题11111","des":"描述1111","deviceType":"3","pushType":"2","tag":"SubActivity","msgType":"1"}
+
+{"title":"标题11111","des":"描述1111","deviceType":"3","pushType":"2","tag":"SubActivity","msgType":"0"}

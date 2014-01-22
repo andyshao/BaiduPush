@@ -1,0 +1,6 @@
+D:\Projects\BaiduPush\BaiduPush\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\BaiduPush\BaiduPush\bin\BaiduPush.dll
+D:\Projects\BaiduPush\BaiduPush\bin\BaiduPush.pdb
+D:\Projects\BaiduPush\BaiduPush\bin\log4net.dll
+D:\Projects\BaiduPush\BaiduPush\obj\Debug\BaiduPush.dll
+D:\Projects\BaiduPush\BaiduPush\obj\Debug\BaiduPush.pdb
